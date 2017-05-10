@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 05bbec6d7665b4a8598580f489a43644
+timeCreated: 1494286676
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Station
+  fontNames:
+  - Station
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
